@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "C-Panel Admin",
-  description: "Creación de HB Play Movies by HBStudios",
+  title: "HB Studios | Official",
+  description: "Creación de HB Studios web oficial de HB Studios developer",
 };
 
 export default function RootLayout({
