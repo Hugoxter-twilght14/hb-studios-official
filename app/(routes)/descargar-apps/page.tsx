@@ -1,7 +1,7 @@
 
 import { Navbar } from "@/components/Shared/Navbar"
 
-export default function Home() {
+export default function Page() {
 
 
   return (
@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="p-6 text-white mt-20">
         <h1 className="text-2xl font-bold">
-          HOME
+          DESCARGAR APPS
         </h1>
       </div>
     </>
