@@ -10,11 +10,18 @@ import { Logo } from "@/components/Shared/Logo"
 import {Menu } from "lucide-react"
 import { itemsNavbar } from "@/data/itemsNavbar"
 import Link from "next/link"
+import { useScrollPosition } from "@/hooks/UseScrollPosition"
+import { cn } from "@/lib/utils"
 
 
 
 export default function NavbarMobile() {
+   const scrollPosition = useScrollPosition()
   return (
+    <div className={cn(
+          "z-30 left-0 right-0 top-0 h-16 fixed w-full transition-all duration-300",
+          scrollPosition > 20 ? 'bg-black' : 'bg-transparent'
+        )}> 
     <div className="p-4 flex justify-between">
       <Logo />
 
@@ -37,5 +44,6 @@ export default function NavbarMobile() {
         </SheetContent>
       </Sheet>
     </div>
+  </div>
   )
 }

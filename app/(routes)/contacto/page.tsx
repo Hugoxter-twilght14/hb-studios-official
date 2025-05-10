@@ -1,5 +1,6 @@
 
 import { Navbar } from "@/components/Shared/Navbar"
+import Footer from "../home/components/Footer/Footer"
 
 export default function Page() {
 
@@ -13,6 +14,10 @@ export default function Page() {
           CONTACTO
         </h1>
       </div>
+
+      <section className="w-full mt-[-80px]">
+        <Footer/>
+      </section>  
     </>
   )
 }
