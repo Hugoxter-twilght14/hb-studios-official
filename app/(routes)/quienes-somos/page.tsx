@@ -1,6 +1,9 @@
 
 import { Navbar } from "@/components/Shared/Navbar"
 import Footer from "../home/components/Footer/Footer"
+import Historia from "./components/Historia/Historia"
+import Equipo from "./components/Equipo/Equipo"
+import MisionVisionValores from "./components/MisionVisionValores/MisionVisionValores"
 
 export default function Page() {
 
@@ -9,11 +12,9 @@ export default function Page() {
     <>
       <Navbar />
 
-      <div className="p-6 text-white mt-20">
-        <h1 className="text-2xl font-bold">
-          QUIENES SOMOS
-        </h1>
-      </div>
+      <Historia/>
+      <Equipo/>
+      <MisionVisionValores/>
 
       <section className="w-full mt-[-80px]">
         <Footer/>

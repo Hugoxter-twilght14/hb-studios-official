@@ -2,6 +2,7 @@
 import { notFound } from "next/navigation";
 import blogData from "../data/blogData.json";
 import Image from "next/image";
+import {Navbar} from "../../../../components/Shared/Navbar";
 
 export async function generateStaticParams() {
   return blogData.map((post) => ({ slug: post.slug }));
@@ -13,8 +14,11 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   if (!post) return notFound();
 
   return (
+
+
     <section className="w-full px-4 py-12 max-w-4xl mx-auto text-white">
-      <div className="mb-6">
+       <Navbar/>
+      <div className="mb-6 mt-10">
         <h1 className="text-3xl font-bold mb-2">{post.title}</h1>
         <p className="text-gray-400 text-sm">
           {post.date} / <span className="text-cyan-400">{post.category}</span>

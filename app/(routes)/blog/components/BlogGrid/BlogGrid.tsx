@@ -5,7 +5,7 @@ import BlogCard from "../BlogCard/BlogCard";
 
 export default function BlogGrid() {
   const [currentPage, setCurrentPage] = useState(1);
-  const perPage = 8;
+  const perPage = 3;
 
   const totalPages = Math.ceil(blogData.length / perPage);
   const start = (currentPage - 1) * perPage;

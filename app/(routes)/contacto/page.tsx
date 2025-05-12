@@ -1,23 +1,20 @@
 
 import { Navbar } from "@/components/Shared/Navbar"
 import Footer from "../home/components/Footer/Footer"
+import Contacto from "./components/Contacto/Contacto"
 
 export default function Page() {
-
-
   return (
-    <>
+    <div className="min-h-screen flex flex-col justify-between">
       <Navbar />
 
-      <div className="p-6 text-white mt-20">
-        <h1 className="text-2xl font-bold">
-          CONTACTO
-        </h1>
-      </div>
+      <main className="flex-grow">
+        <Contacto />
+      </main>
 
-      <section className="w-full mt-[-80px]">
-        <Footer/>
-      </section>  
-    </>
-  )
+      <footer>
+        <Footer />
+      </footer>
+    </div>
+  );
 }

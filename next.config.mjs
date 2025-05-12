@@ -10,9 +10,15 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "ui-avatars.com", // ✅ permite los avatares externos
+        hostname: "ui-avatars.com",
         port: "",
         pathname: "/api/**",
+      },
+      {
+        protocol: "https",
+        hostname: "i.pinimg.com",
+        port: "",
+        pathname: "/**",
       },
     ],
   },

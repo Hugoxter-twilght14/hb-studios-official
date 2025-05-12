@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Bird Dash",
+    "developer": "HBStudios",
+    "platform": "Android",
+    "description": "Vuela, evita chocar y alcanza puntuación legendaria, elige diferentes skins y mucho mas!!.",
+    "apkUrl": "",
+    "image": "/iconos/logo.jpg",
+    "screenshots": [
+        "https://i.pinimg.com/736x/6b/12/5b/6b125b0a69b463a39bdad2b987779b84.jpg",
+        "https://i.pinimg.com/736x/54/d3/ba/54d3ba34ebbc675e8a27e2afd7ed14cf.jpg",
+        "https://i.pinimg.com/736x/a4/53/4a/a4534ae2cb278ad2937e9b3754f791fe.jpg",
+        "https://i.pinimg.com/736x/a9/40/92/a940922bcccd89139cf7b242d91231de.jpg",
+        "https://i.pinimg.com/736x/43/7f/c1/437fc11a458b0d0871a8eeda616c9f9d.jpg",
+        "https://i.pinimg.com/736x/a0/30/96/a030960a358bdd76089c2a636d5e204e.jpg",
+        "https://i.pinimg.com/736x/93/af/f7/93aff750fcf1895ccd170a35b940edec.jpg"
+    ]
+  },
+   {
+    "id": 2,
+    "title": "Go Translate - Traductor de idiomas",
+    "developer": "HBStudios",
+    "platform": "Android",
+    "description": "Traduce texto a mas de 50 idiomas diferentes y traduce imagenes a diferentes idiomas de manera offline",
+    "apkUrl": "https://play.google.com/store/apps/details?id=com.hbstudios.gotranslate_traductordeidiomas",
+    "image": "/ultimos-lanzamientos/go_translate_icono.jpg",
+    "screenshots": [
+        "https://i.pinimg.com/736x/4f/19/23/4f1923771634653b88c524a61cedb85c.jpg",
+        "https://i.pinimg.com/736x/1c/d4/0a/1cd40abd55ad545daa38dbc3cd2caadb.jpg",
+        "https://i.pinimg.com/736x/d5/0d/80/d50d808b7de592a89b12fc3b8827408d.jpg",
+        "https://i.pinimg.com/736x/c3/03/db/c303db0d7f08eb6a59fa3ebf78a621f8.jpg",
+        "https://i.pinimg.com/736x/02/3d/3e/023d3ef3902140e36176f649f2747ef0.jpg",
+        "https://i.pinimg.com/736x/a0/eb/36/a0eb366b0bbafc2d44ef899f6c47b10b.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FP Wallpapers",
+    "developer": "HBStudios",
+    "platform": "Android",
+    "description": "FP Wallpapers es una aplicación de fondos de pantalla, elige entre las diferentes categorias, descarga las imagenes en tu dispositivo o establecelas como fondo de pantalla de bloqueo, principal o en ambos",
+    "apkUrl": "https://play.google.com/store/apps/details?id=com.hbstudios.fondosdepantalla",
+    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
+    "screenshots": [
+        "https://i.pinimg.com/736x/6b/12/5b/6b125b0a69b463a39bdad2b987779b84.jpg",
+        "https://i.pinimg.com/736x/54/d3/ba/54d3ba34ebbc675e8a27e2afd7ed14cf.jpg",
+        "https://i.pinimg.com/736x/a4/53/4a/a4534ae2cb278ad2937e9b3754f791fe.jpg",
+        "https://i.pinimg.com/736x/a9/40/92/a940922bcccd89139cf7b242d91231de.jpg",
+        "https://i.pinimg.com/736x/43/7f/c1/437fc11a458b0d0871a8eeda616c9f9d.jpg",
+        "https://i.pinimg.com/736x/a0/30/96/a030960a358bdd76089c2a636d5e204e.jpg",
+        "https://i.pinimg.com/736x/93/af/f7/93aff750fcf1895ccd170a35b940edec.jpg"
+    ]
+  }
+]

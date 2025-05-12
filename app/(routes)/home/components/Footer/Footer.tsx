@@ -1,5 +1,5 @@
 "use client";
-import { FaFacebookF, FaGooglePlay, FaInstagram, FaTwitter, FaWhatsapp, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaGooglePlay, FaInstagram, FaTwitter, FaWhatsapp, FaYoutube } from "react-icons/fa";
 import Link from "next/link";
 
 export default function Footer() {
@@ -10,12 +10,12 @@ export default function Footer() {
         {/* Redes sociales */}
         <div className="flex space-x-6 text-xl">
           <Link href="https://facebook.com" target="_blank" aria-label="Facebook" className="text-blue-700 hover:text-white transition">
-            <FaFacebookF />
+            <FaFacebook />
           </Link>
           <Link href="https://instagram.com" target="_blank" aria-label="Instagram" className="text-pink-600 hover:text-white transition">
             <FaInstagram />
           </Link>
-          <Link href="https://twitter.com" target="_blank" aria-label="Google Play" className="text-yellow-600 hover:text-white transition">
+          <Link href="https://play.google.com/store/apps/dev?id=5916610870676162063" target="_blank" aria-label="Google Play" className="text-yellow-600 hover:text-white transition">
             <FaGooglePlay />
           </Link>
           <Link href="https://instagram.com" target="_blank" aria-label="Instagram" className="text-green-600 hover:text-white transition">
