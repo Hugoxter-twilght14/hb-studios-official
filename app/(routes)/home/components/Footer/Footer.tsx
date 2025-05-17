@@ -1,5 +1,5 @@
 "use client";
-import { FaFacebook, FaGooglePlay, FaInstagram, FaTwitter, FaWhatsapp, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaGooglePlay, FaInstagram, FaWhatsapp, FaYoutube } from "react-icons/fa";
 import Link from "next/link";
 
 export default function Footer() {
@@ -9,19 +9,19 @@ export default function Footer() {
         
         {/* Redes sociales */}
         <div className="flex space-x-6 text-xl">
-          <Link href="https://facebook.com" target="_blank" aria-label="Facebook" className="text-blue-700 hover:text-white transition">
+          <Link href="https://www.facebook.com/share/16B9hLxNeS/" target="_blank" aria-label="Facebook" className="text-blue-700 hover:text-white transition">
             <FaFacebook />
           </Link>
-          <Link href="https://instagram.com" target="_blank" aria-label="Instagram" className="text-pink-600 hover:text-white transition">
+          <Link href="https://www.instagram.com/hb_studios14/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D" target="_blank" aria-label="Instagram" className="text-pink-600 hover:text-white transition">
             <FaInstagram />
           </Link>
           <Link href="https://play.google.com/store/apps/dev?id=5916610870676162063" target="_blank" aria-label="Google Play" className="text-yellow-600 hover:text-white transition">
             <FaGooglePlay />
           </Link>
-          <Link href="https://instagram.com" target="_blank" aria-label="Instagram" className="text-green-600 hover:text-white transition">
+          <Link href="https://www.whatsapp.com/channel/0029VaeFE7vJ3jv0723pXa1P" target="_blank" aria-label="Instagram" className="text-green-600 hover:text-white transition">
             <FaWhatsapp />
           </Link>
-          <Link href="https://youtube.com" target="_blank" aria-label="YouTube" className="text-red-700 hover:text-white transition">
+          <Link href="https://m.youtube.com/@HBStudiosOficial14" target="_blank" aria-label="YouTube" className="text-red-700 hover:text-white transition">
             <FaYoutube />
           </Link>
         </div>

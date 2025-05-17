@@ -31,11 +31,22 @@ export default function UltimasNoticias() {
   };
 
   const posts = [
-    {
+     {
       id: 1,
+      slug: "PlayMovies-Lanzamiento-global",
+      image: "/ultimos-lanzamientos/playmovies_icono.jpg",
+      date: "17 Mayo 2025",
+      category: "PlayMovies",
+      tags: ["Global Launch"],
+      title: "PlayMovies - Lanzamiento global",
+      description:
+        "HBStudios presenta el lanzamiento global de PlayMovies, una app de streaming de peliculas, series y animes totalmente gratuita.",
+    },
+    {
+      id: 2,
       slug: "bird-dash-beta-cerrada",
-      image: "/iconos/logo.jpg",
-      date: "02 Agosto 2024",
+      image: "/ultimos-lanzamientos/icono-birddash.png",
+      date: "02 Mayo 2025",
       category: "Bird Dash",
       tags: ["Beta", "Actualización"],
       title: "Bird Dash inicia su beta cerrada, detalles y requisitos",
@@ -43,7 +54,18 @@ export default function UltimasNoticias() {
         "HBStudios presenta la beta cerrada para Bird Dash, conoce cómo puedes participar y ser parte de esta prueba.",
     },
     {
-      id: 2,
+      id: 3,
+      slug: "gotranslate-traductor-de-idiomas",
+      image: "/ultimos-lanzamientos/go_translate_icono.jpg",
+      date: "31 Julio 2024",
+      category: "Go Translate",
+      tags: ["Global Launch"],
+      title: "Go Translate - Traductor de idiomas - Lanzamiento global",
+      description:
+        "HBStudios presenta el lanzamiento global de Go Translate - Traductor de idiomas...",
+    },
+    {
+      id: 4,
       slug: "fp-wallpapers-nuevas-funciones",
       image: "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
       date: "15 Julio 2024",

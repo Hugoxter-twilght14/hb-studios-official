@@ -1,29 +1,53 @@
 [
   {
     "id": 1,
+    "title": "PlayMovies",
+    "developer": "HBStudios",
+    "platform": "Android, Windows",
+    "description": "Mira tus peliculas, series y animes favoritos en un solo lugar, streaming en directo",
+    "apkUrl": "/apks/PlayMovies V1.0.apk",
+    "apkUrl2": "/apks/PlayMovies Setup 1.3.0.exe",
+    "image": "/ultimos-lanzamientos/playmovies_icono.jpg",
+    "screenshots": [
+        "https://i.pinimg.com/736x/94/18/f0/9418f0492d21f3cba4e37e83fe8fb971.jpg",
+        "https://i.pinimg.com/736x/24/9f/c8/249fc88a0d7b688d0c263deab3ec60b9.jpg",
+        "https://i.pinimg.com/736x/9a/3b/c7/9a3bc731a7287af02b77fa9f407fabc8.jpg",
+        "https://i.pinimg.com/736x/ec/de/e5/ecdee5e6289197972f0ea8e51ec183a3.jpg",
+        "https://i.pinimg.com/736x/dd/77/75/dd777576086ec0cae250da2d75ab0e03.jpg",
+        "https://i.pinimg.com/736x/95/be/a8/95bea8b0e04446e1d4d5e8b7bba1c1a3.jpg",
+        "https://i.pinimg.com/736x/16/61/d7/1661d752e325899405fc158a325d086b.jpg",
+        "https://i.pinimg.com/736x/a6/4b/23/a64b239a812a2f0f6ce8dc0c694cac6a.jpg",
+        "https://i.pinimg.com/736x/94/bc/ed/94bcedc849309d1a18e1604416ff8c21.jpg",
+        "https://i.pinimg.com/736x/40/0d/2c/400d2c80558d905230933e83bda6ec9f.jpg",
+        "https://i.pinimg.com/736x/11/4a/b1/114ab1784eff0db7d3c129dfa09f37c3.jpg"
+    ]
+  },
+  {
+    "id": 2,
     "title": "Bird Dash",
     "developer": "HBStudios",
     "platform": "Android",
     "description": "Vuela, evita chocar y alcanza puntuación legendaria, elige diferentes skins y mucho mas!!.",
     "apkUrl": "",
-    "image": "/iconos/logo.jpg",
+    "apkUrl2": "",
+    "image": "/ultimos-lanzamientos/icono-birddash.png",
     "screenshots": [
-        "https://i.pinimg.com/736x/6b/12/5b/6b125b0a69b463a39bdad2b987779b84.jpg",
-        "https://i.pinimg.com/736x/54/d3/ba/54d3ba34ebbc675e8a27e2afd7ed14cf.jpg",
-        "https://i.pinimg.com/736x/a4/53/4a/a4534ae2cb278ad2937e9b3754f791fe.jpg",
-        "https://i.pinimg.com/736x/a9/40/92/a940922bcccd89139cf7b242d91231de.jpg",
-        "https://i.pinimg.com/736x/43/7f/c1/437fc11a458b0d0871a8eeda616c9f9d.jpg",
-        "https://i.pinimg.com/736x/a0/30/96/a030960a358bdd76089c2a636d5e204e.jpg",
-        "https://i.pinimg.com/736x/93/af/f7/93aff750fcf1895ccd170a35b940edec.jpg"
+        "https://i.pinimg.com/736x/44/08/d4/4408d411161816ab46db319f6ba7422b.jpg",
+        "https://i.pinimg.com/736x/5a/6a/b8/5a6ab8b183f79e850096534950a39bf4.jpg",
+        "https://i.pinimg.com/736x/91/d7/ce/91d7ce9ee0b5a4ff7dc1029fffcb9050.jpg",
+        "https://i.pinimg.com/736x/dc/66/91/dc6691879088a60f22017eaa6198583a.jpg",
+        "https://i.pinimg.com/736x/d6/69/bf/d669bffcfbf74b7297517e719cdbfd87.jpg",
+        "https://i.pinimg.com/736x/7a/a2/59/7aa25912e10c2cde6983d7371242b363.jpg"
     ]
   },
    {
-    "id": 2,
+    "id": 3,
     "title": "Go Translate - Traductor de idiomas",
     "developer": "HBStudios",
     "platform": "Android",
     "description": "Traduce texto a mas de 50 idiomas diferentes y traduce imagenes a diferentes idiomas de manera offline",
     "apkUrl": "https://play.google.com/store/apps/details?id=com.hbstudios.gotranslate_traductordeidiomas",
+    "apkUrl2": "",
     "image": "/ultimos-lanzamientos/go_translate_icono.jpg",
     "screenshots": [
         "https://i.pinimg.com/736x/4f/19/23/4f1923771634653b88c524a61cedb85c.jpg",
@@ -35,12 +59,13 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "FP Wallpapers",
     "developer": "HBStudios",
     "platform": "Android",
     "description": "FP Wallpapers es una aplicación de fondos de pantalla, elige entre las diferentes categorias, descarga las imagenes en tu dispositivo o establecelas como fondo de pantalla de bloqueo, principal o en ambos",
     "apkUrl": "https://play.google.com/store/apps/details?id=com.hbstudios.fondosdepantalla",
+    "apkUrl2": "",
     "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
     "screenshots": [
         "https://i.pinimg.com/736x/6b/12/5b/6b125b0a69b463a39bdad2b987779b84.jpg",

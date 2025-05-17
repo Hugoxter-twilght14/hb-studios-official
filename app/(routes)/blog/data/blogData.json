@@ -1,36 +1,36 @@
 [
   {
     "id": 1,
+    "slug": "PlayMovies-Lanzamiento-global",
+    "title": "PlayMovies - Lanzamiento global",
+    "image": "/ultimos-lanzamientos/playmovies_icono.jpg",
+    "date": "17 Mayo 2025",
+    "category": "PlayMovies",
+    "tags": ["Global Launch"],
+    "description":"",
+    "content": "HBStudios presenta la beta cerrada para Bird Dash. En este artículo te explicamos cómo puedes ser parte de esta nueva experiencia, qué dispositivos son compatibles, y cómo se distribuyen los accesos..."
+  },
+  {
+    "id": 2,
     "slug": "bird-dash-beta-cerrada",
     "title": "Bird Dash inicia su beta cerrada, detalles y requisitos",
-    "image": "/iconos/logo.jpg",
-    "date": "02 Agosto 2024",
+    "image": "/ultimos-lanzamientos/icono-birddash.png",
+    "date": "02 Mayo 2025",
     "category": "Bird Dash",
     "tags": ["Beta", "Actualización"],
     "description":"",
     "content": "HBStudios presenta la beta cerrada para Bird Dash. En este artículo te explicamos cómo puedes ser parte de esta nueva experiencia, qué dispositivos son compatibles, y cómo se distribuyen los accesos..."
   },
   {
-    "id": 2,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
     "id": 3,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
+    "slug": "gotranslate-traductor-de-idiomas",
+    "title": "Go Translate - Traductor de idiomas - Lanzamiento global",
+    "image": "/ultimos-lanzamientos/go_translate_icono.jpg",
+    "date": "31 Julio 2024",
+    "category": "Go Translate",
+    "tags": ["Global Launch"],
     "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
+    "content": "HBStudios presenta el lanzamiento global de Go Translate - Traductor de idiomas..."
   },
   {
     "id": 4,
@@ -41,83 +41,6 @@
     "category": "FP Wallpapers",
     "tags": ["UI", "Mejoras", "Categorías"],
     "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 5,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 6,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 7,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 8,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 9,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 10,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
-  },
-  {
-    "id": 11,
-    "slug": "fp-wallpapers-nuevas-funciones",
-    "title": "FP Wallpapers se actualiza con nuevas funciones",
-    "image": "/ultimos-lanzamientos/fp_wallpapers_icono.jpg",
-    "date": "15 Julio 2024",
-    "category": "FP Wallpapers",
-    "tags": ["UI", "Mejoras", "Categorías"],
-    "description":"",
-    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones al cambiar de imagen, vista previa, modo favorito, y mejoras importantes en velocidad de carga..."
+    "content": "La nueva versión de FP Wallpapers incluye funciones muy esperadas como animaciones, mejoras de diseño genrales y nuevas categorias agregadas alcatalogo..."
   }
 ]

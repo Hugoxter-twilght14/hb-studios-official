@@ -32,10 +32,10 @@ const CarruselNovedades = () => {
 
       <Slider {...settings}>
         <div className="w-full flex justify-center items-center">
-          <img src="/iconos/logo.jpg" alt="PlayMovies" className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
+          <img src="/ultimos-lanzamientos/playmovies_icono.jpg" alt="PlayMovies"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
         </div>
         <div className="w-full flex justify-center items-center">
-          <img src="/iconos/logo.jpg" alt="Bird Dash"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
+          <img src="/ultimos-lanzamientos/icono-birddash.png" alt="Bird Dash"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
         </div>
         <div className="w-full flex justify-center items-center">
           <img src="/ultimos-lanzamientos/fp_wallpapers_icono.jpg" alt="Go Translate: Traductor de idiomas"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />

@@ -5,6 +5,7 @@ export interface AppInfo {
   platform: string;
   description: string;
   apkUrl: string;
+  apkUrl2?: string | null;
   image: string;
   screenshots: string[];
 }
