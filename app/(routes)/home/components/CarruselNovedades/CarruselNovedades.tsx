@@ -31,6 +31,9 @@ const CarruselNovedades = () => {
       <h2 className="text-3xl font-extrabold text-center mb-8 uppercase tracking-wide">Últimos Lanzamientos</h2>
 
       <Slider {...settings}>
+       <div className="w-full flex justify-center items-center">
+          <img src="/ultimos-lanzamientos/icono-html-colors.jpg" alt="PlayMovies"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
+        </div>
         <div className="w-full flex justify-center items-center">
           <img src="/ultimos-lanzamientos/playmovies_icono.jpg" alt="PlayMovies"  className="object-contain rounded-lg shadow-md mx-auto" style={{ width: '412px', height: '412px', boxShadow: "0 0 10px rgba(0,255,255,0.2)" }} />
         </div>

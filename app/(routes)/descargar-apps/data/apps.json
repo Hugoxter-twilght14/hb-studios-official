@@ -1,6 +1,28 @@
 [
-  {
+   {
     "id": 1,
+    "title": "HTML Colors",
+    "developer": "HBStudios",
+    "platform": "Android",
+    "description": "Herramienta para programadores, diseñadores, artistas de dibujo, busca y copia codigo de colores y encuentra el que mas te guste",
+    "apkUrl": "/apks/html-colors-by-hb-studios.apk",
+    "image": "/ultimos-lanzamientos/icono-html-colors.jpg",
+    "screenshots": [
+        "https://i.pinimg.com/736x/94/18/f0/9418f0492d21f3cba4e37e83fe8fb971.jpg",
+        "https://i.pinimg.com/736x/24/9f/c8/249fc88a0d7b688d0c263deab3ec60b9.jpg",
+        "https://i.pinimg.com/736x/9a/3b/c7/9a3bc731a7287af02b77fa9f407fabc8.jpg",
+        "https://i.pinimg.com/736x/ec/de/e5/ecdee5e6289197972f0ea8e51ec183a3.jpg",
+        "https://i.pinimg.com/736x/dd/77/75/dd777576086ec0cae250da2d75ab0e03.jpg",
+        "https://i.pinimg.com/736x/95/be/a8/95bea8b0e04446e1d4d5e8b7bba1c1a3.jpg",
+        "https://i.pinimg.com/736x/16/61/d7/1661d752e325899405fc158a325d086b.jpg",
+        "https://i.pinimg.com/736x/a6/4b/23/a64b239a812a2f0f6ce8dc0c694cac6a.jpg",
+        "https://i.pinimg.com/736x/94/bc/ed/94bcedc849309d1a18e1604416ff8c21.jpg",
+        "https://i.pinimg.com/736x/40/0d/2c/400d2c80558d905230933e83bda6ec9f.jpg",
+        "https://i.pinimg.com/736x/11/4a/b1/114ab1784eff0db7d3c129dfa09f37c3.jpg"
+    ]
+  },
+  {
+    "id": 2,
     "title": "PlayMovies",
     "developer": "HBStudios",
     "platform": "Android, Windows",
@@ -23,7 +45,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Bird Dash",
     "developer": "HBStudios",
     "platform": "Android",
@@ -41,7 +63,7 @@
     ]
   },
    {
-    "id": 3,
+    "id": 4,
     "title": "Go Translate - Traductor de idiomas",
     "developer": "HBStudios",
     "platform": "Android",
@@ -59,7 +81,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "FP Wallpapers",
     "developer": "HBStudios",
     "platform": "Android",
