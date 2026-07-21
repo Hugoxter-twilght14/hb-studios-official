@@ -15,8 +15,8 @@ const miembros: Miembro[] = [
   },
   {
     nombre: "Hugo Borraz",
-    rol: "Fundador, CEO & Developer Web/Android",
-    imagen: "/equipo/fundador.jpg",
+    rol: "CEO & Developer Web/Android",
+    imagen: "https://avatars.githubusercontent.com/u/181045170?v=4",
   },
   {
     nombre: "",
