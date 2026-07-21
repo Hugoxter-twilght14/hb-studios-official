@@ -9,9 +9,13 @@ type Miembro = {
 
 const miembros: Miembro[] = [
   {
+  },
+  {
     nombre: "Hugo Borraz",
     rol: "Fundador, CEO & Developer Web/Android",
     imagen: "/equipo/fundador.jpg",
+  },
+  {
   },
 ]
 
