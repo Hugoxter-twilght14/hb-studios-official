@@ -13,16 +13,6 @@ const miembros: Miembro[] = [
     rol: "Fundador, CEO & Developer Web/Android",
     imagen: "/equipo/fundador.jpg",
   },
-  {
-    nombre: "Daniel Elibar",
-    rol: "Diseñador gráfico & Frontend Developer Web",
-    imagen: "/equipo/uiux.jpg",
-  },
-  {
-    nombre: "HBS Bot Assistant",
-    rol: "Bot Assitant",
-    imagen: "/equipo/uiux.jpg",
-  },
 ]
 
 export default function Equipo() {
