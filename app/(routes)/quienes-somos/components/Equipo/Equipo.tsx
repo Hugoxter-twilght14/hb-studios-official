@@ -9,6 +9,9 @@ type Miembro = {
 
 const miembros: Miembro[] = [
   {
+    nombre: "",
+    rol: "",
+    imagen: "",
   },
   {
     nombre: "Hugo Borraz",
@@ -16,6 +19,9 @@ const miembros: Miembro[] = [
     imagen: "/equipo/fundador.jpg",
   },
   {
+    nombre: "",
+    rol: "",
+    imagen: "",
   },
 ]
 
